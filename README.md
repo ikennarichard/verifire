@@ -1,6 +1,6 @@
-# Verifier Appp
+# Verifier App
 
-A liveness test and document verification tool app.
+A liveness test and document verification app.
 
 ## Regula Lingua
 
